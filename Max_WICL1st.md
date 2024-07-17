@@ -71,5 +71,6 @@ XXX
 
 ### 07.17
 
-XXX
+- 今日学习时间：1h
+- 学习内容小结：回看 Web3 URL 残酷共学公开课，了解了一下 ERC6860 提案：https://www.youtube.com/watch?v=hmN77o-ex8I
 <!-- Content_END -->
